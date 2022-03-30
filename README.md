@@ -3,8 +3,6 @@ Zelar Logo
 
 #Branding
 
-Primary color  
-#589adc
+Primary color #589adc
 
-Secondary Color
-#33547d
+Secondary Color #33547d
